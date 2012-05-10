@@ -1,0 +1,13 @@
+{
+  "author": "Arpith Siromoney <arpith@shelf.name> (http://twitter.com/arpith)",
+  "name": "DOM",
+  "description": "Template engine without the HTML.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arpith/DOM.js.git"
+  },
+  "engines": {
+    "node": "~0.6.17"
+  },
+}
