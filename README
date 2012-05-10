@@ -1,0 +1,1 @@
+DOM.js is a template engine without the HTML.  What if your JavaScript objects were automagically DOM nodes?  ['item','another item'] instead of <ul><li>item</li><li>another item</li></ul>.
