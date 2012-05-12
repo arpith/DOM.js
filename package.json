@@ -10,4 +10,5 @@
 , "engines": {
     "node": "~0.6.17"
   }
+, "main": "DOM.js"
 }
