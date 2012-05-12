@@ -1,7 +1,7 @@
 {
   "author": "Arpith Siromoney <arpith@shelf.name> (http://twitter.com/arpith)"
 , "name": "DOM"
-, "description": "Template engine without the HTML."
+, "description": "Templating without HTML"
 , "version": "0.0.1"
 , "repository": {
     "type": "git"
