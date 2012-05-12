@@ -1,0 +1,27 @@
+info it worked if it ends with ok
+verbose cli [ 'nodejs', '/usr/bin/npm', 'install', '.', '-g' ]
+info using npm@1.1.19
+info using node@v0.6.17
+verbose config file /home/ec2-user/.npmrc
+verbose config file /usr/etc/npmrc
+verbose config file /usr/lib/nodejs/npm/npmrc
+verbose cache add [ '.', null ]
+silly cache add: name, spec, args [ undefined, '.', [ '.', null ] ]
+verbose parsed url { pathname: '.', path: '.', href: '.' }
+ERR! Could not install: .
+ERR! Error: ENOENT, open 'package.json'
+ERR! You may report this log at:
+ERR!     <http://github.com/isaacs/npm/issues>
+ERR! or email it to:
+ERR!     <npm-@googlegroups.com>
+ERR! 
+ERR! System Linux 3.2.12-3.2.4.amzn1.x86_64
+ERR! command "nodejs" "/usr/bin/npm" "install" "." "-g"
+ERR! cwd /home/ec2-user/DOMjs
+ERR! node -v v0.6.17
+ERR! npm -v 1.1.19
+ERR! path package.json
+ERR! code ENOENT
+ERR! message ENOENT, open 'package.json'
+ERR! errno {}
+verbose exit [ 1, true ]
