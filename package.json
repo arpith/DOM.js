@@ -1,8 +1,8 @@
 {
   "author": "Arpith Siromoney <arpith@shelf.name> (http://twitter.com/arpith)"
 , "name": "DOM"
-, "description": "Templating without HTML"
-, "version": "0.0.1"
+, "description": "Templating without HTML. Eventually."
+, "version": "0.0.2"
 , "repository": {
     "type": "git"
   , "url": "git://github.com/arpith/DOM.js.git"
